@@ -2,7 +2,7 @@
 
 Tutorial from https://codewithmukesh.com/blog/implementing-crud-in-golang-rest-api/
 
-Create db crud_demo
+Create db crud_demo in mysql
 
 In config.json, connection_string should change username password db name
 
